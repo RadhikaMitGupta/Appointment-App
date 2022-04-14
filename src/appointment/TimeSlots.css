@@ -1,0 +1,37 @@
+.allfather{
+    display : flex;
+    margin-left: 5%;
+}
+.allchild p{
+    margin: 15px;
+}
+#box{
+   
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-top: 50px;
+    width: 50%;
+    text-align: center;
+    margin-left: 23%;
+    padding: 20px;
+    border-radius: 3%;
+}
+#booked{
+   background-color: gray;
+   border-radius: 15px;
+   width: 20%;
+   margin-left: 40%;
+}
+
+#avila{
+    background-color: pink;
+    border-radius: 15px;
+    width: 20%;
+    margin-left: 40%;
+}
+#booke{
+    background-color: violet;
+    /* border-radius: 15px; */
+}
+#avil{
+    background-color: aqua;
+    }
